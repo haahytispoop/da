@@ -13,7 +13,7 @@ _G.Key = "LXUCPynI21"
 _G.KeyInput = "string"
 
 function MakeScriptHub()
-     loadstring(game:HttpGet('https://raw.githubusercontent.com/dupescriptforpopit/d/main/README.md'))()
+     loadstring(game:HttpGet('https://raw.githubusercontent.com/dupescriptforpopit/its/main/README.md'))()
 end
 
 function CorrectKeyNotification()
